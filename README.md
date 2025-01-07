@@ -1,1 +1,1 @@
-# CaseStudy
+# This C# application handles order processing, refund requests, and payment methods. The system features a simple task manager that schedules and updates tasks based on order and refund data, offering efficient order tracking and value computation.
